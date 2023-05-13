@@ -1,2 +1,2 @@
 # Python
- Exerícios de Python do curso em video.
+ Exerícios de Python pelo curso em video.
